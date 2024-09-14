@@ -1,4 +1,4 @@
-## Basic Excel Dashboaring (No Code/No VBA)
+## Basic Excel Dashboarding (No Code/No VBA)
 
 ### Clone the repository and check the report file
 
